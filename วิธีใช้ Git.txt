@@ -1,0 +1,6 @@
+1.เริ่มสร้าง folder ให้ใช้ git init เพื่อเริ่มเชื่อมกับ git
+2.ใช้ git remote add origin ตามด้วย repo ที่ให้ copy ตาม video
+3.ต้องจำไว้เสมอว่า folder ใหม่ ต้องใช้ git pull หลัง add repo
+4.ใช้ git add . เพื่อเพิ่มไฟล์เข้า git
+5.ใช้ git commit -m "พิมข้อความที่ต้องการ commit"
+6.ใช้ git push origin ตามด้วย branch ที่ต้องการจะส่งทุกอย่างที่commitขึ้นไป
