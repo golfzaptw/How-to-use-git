@@ -1,4 +1,5 @@
 # How to use
+
 1.Install git via https://git-scm.com/downloads
 2.use Git Bash when right click
 3.input text : git clone "input repo github"
