@@ -4,7 +4,7 @@
 -----------------------------------------------
 4.when update all use command : git add .
 git add . => git add all
-5.use command : git reset .
+5.when want to cancel file add use command : git reset .
 git reset . => reset file add all
 6.after git add use command : git commit -m "Input text here"
 7.after git commit use command : git push origin master
